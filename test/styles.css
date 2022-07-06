@@ -1,0 +1,82 @@
+.button {
+  margin-left: 20%;
+  width: 500px;
+  overflow: auto;
+  padding: 3rem 2rem;
+  display: block;
+  
+
+}
+.btn {
+  border-color: rgb(90, 90, 90);
+  border: none;
+  height: 8px;
+}
+
+
+.button2 {
+  background-color: rgb(49, 49, 49);
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.box{ 
+  width:150px;
+  border-radius: 5px;
+ height: 70px;
+ text-align: center;
+ background-color: rgb(43, 42, 42);
+ color: white;
+}
+.random1 {
+  align-items: center;
+  margin-left: 20%;
+}
+body {
+  background-color: rgb(90, 90, 90);
+}
+
+.button3 {
+  background-color: rgb(49, 49, 49);
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.box2{ 
+  width:245px;
+  border-radius: 5px;
+ height: 70px;
+ text-align: center;
+ background-color: rgb(43, 42, 42);
+ color: white;
+}
+.random2 {
+  margin-top: 20px;
+  align-items: center;
+  margin-left: 20%;
+}
+h1 {
+  background: #828282;
+  padding: 1rem;
+  text-align: center;
+}
+.button4 {
+  background-color: rgb(49, 49, 49);
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
